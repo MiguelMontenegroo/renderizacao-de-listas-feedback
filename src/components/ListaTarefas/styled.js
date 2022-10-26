@@ -72,3 +72,14 @@ export const LinhaHorizontal = styled.hr`
   width: 100%;
   margin: 16px;
 `
+// export const tarefasCompletas = styled.li`
+// display: flex;
+// justify-content: space-between;
+// align-items: center;
+// margin-top: 1rem;
+// border-radius: 10px;
+// padding: 6px 8px;
+// transition: background-color 0.3s;
+// text-decoration: line-through;
+// color: grey;
+// `
